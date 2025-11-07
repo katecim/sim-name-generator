@@ -2,7 +2,7 @@
 
 > A simple name generator for The Sims, built with Node.js and EJS.
 
-![Screenshot of Sim Name Generator]
+![Screenshot](public/images/simGeneratorScreenshot.png)
 
 ---
 
