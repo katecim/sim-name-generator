@@ -30,7 +30,7 @@ You must have [Node.js](https://nodejs.org/) installed on your machine.
     ```
 4.  Run the application:
     ```bash
-    npm start
+    node index.js
     ```
     *(Or `nodemon index.js` if you are using nodemon)*
 
